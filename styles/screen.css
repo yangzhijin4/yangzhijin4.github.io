@@ -7,7 +7,7 @@ body {
   color: #222;
   margin: 0;
   height: 100vh;
-  font-size: 16px;
+  font-size: 18px;
   flex-direction: column;
 }
 body .backstretch {
@@ -60,11 +60,11 @@ header h1 a {
   color: #ca314d;
 }
 header p {
-  color: #fdf2e4;
+  color: #ca314d;
   letter-spacing: 0;
   margin: 0;
   text-shadow: 0 1px 3px rgba(0,0,0,0.35);
-  font-size: 2em;
+  font-size: 1.5em;
 }
 header nav ul {
   list-style: none;
